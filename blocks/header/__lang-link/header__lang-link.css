@@ -10,4 +10,7 @@
   line-height: 1.17;
 }
 
-
+.header__lang-link:hover {
+  opacity: .6;
+  transition: .3s linear;
+}

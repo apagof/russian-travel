@@ -28,6 +28,6 @@
 }
 
 .cover__link:hover::after {
-  opacity: .7;
+  opacity: .8;
   transition: .3s ease-in-out;
 }
