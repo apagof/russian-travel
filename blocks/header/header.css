@@ -5,3 +5,9 @@
   align-items: flex-end;
   padding: 0 24px;
 }
+
+@media screen and (max-width: 767px) {
+  .header {
+    max-width: 93.75%;
+  }
+}

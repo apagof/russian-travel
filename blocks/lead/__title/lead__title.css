@@ -10,3 +10,24 @@
   text-align: center;
   color: #fff;
 }
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .lead-title {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 1.1;
+    padding: 0 16px;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .lead__title {
+    padding: 0 104px;
+  }
+}
