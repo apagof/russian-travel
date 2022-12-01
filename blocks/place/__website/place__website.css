@@ -1,5 +1,7 @@
-.places__website {
-  align-self: end;
+.place__website {
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
 }
 
 
